@@ -1,0 +1,1 @@
+SolarApp.apk is the application for Android. It needs an Arduino correctly configured to work. 
